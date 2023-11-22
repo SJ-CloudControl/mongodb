@@ -40,4 +40,5 @@ properties:
   AUTH_KEY:
      vault: AUTH_KEY
   AUTH_ENABLE: 1
+  TARGET_PATH: /,/etc/hostname,/appz/data,/etc/hosts
   revision: 2
